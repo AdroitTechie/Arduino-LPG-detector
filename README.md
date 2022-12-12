@@ -6,12 +6,12 @@
 
  We have used a LPG gas sensor module to detect LPG Gas, When LPG gas leakage occurs, It activates buzzer which beeps again and again untuil the gas detector module doesn't sense the gas in its given range.And also send situation message for respective devices with all details.
 
-### The Main components of Project are:
+### The Main components used in this Project are:
 *  Arduino
 *  GSM Module of Sim900a
 *  MQ-5 sensor
 
-Its built in C programming Language
+It's built in C programming Language
 
 ## ----------------------------------------------------------
 
