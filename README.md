@@ -14,5 +14,7 @@
 Its built in C programming Language
 
 ## ----------------------------------------------------------
-![ard image (1)](https://user-images.githubusercontent.com/78680216/206993014-a95c3b96-54c2-42f1-8b83-b01665bf77a8.jpeg)
+<div style="width:60px ; height:60px">
+![ard image (1)](https://user-images.githubusercontent.com/78680216/206994785-90c94236-28eb-46a8-b184-2000539ef8e8.jpg)
+<div>
 
