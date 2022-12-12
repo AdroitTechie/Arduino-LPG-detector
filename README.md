@@ -15,6 +15,6 @@ Its built in C programming Language
 
 ## ----------------------------------------------------------
 <div style="width:60px ; height:60px">
-![ard image (1)](https://user-images.githubusercontent.com/78680216/206994785-90c94236-28eb-46a8-b184-2000539ef8e8.jpg)
+![ard image ](https://user-images.githubusercontent.com/78680216/206994785-90c94236-28eb-46a8-b184-2000539ef8e8.jpg)
 <div>
 
